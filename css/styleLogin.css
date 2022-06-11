@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Nunito+Sans:wght@400;700&display=swap');
+body{
+   background:#606c38 ;
+   background: linear-gradient(to right, #8e9a63 , #35410f);
+   font-family: 'Noto Sans', sans-serif;
+   font-family: 'Nunito Sans', sans-serif;
+}
+
+.login{
+    /* background:#8e9a63 ; */
+    background: linear-gradient(to right, #ffff55 , #c7a500);
+}
+
+
+.entrar{
+    background-color:#606c38;
+    color: #ffff;
+    text-decoration: none;
+}
+.entrar:hover{
+    background-color: #35410f;
+    color: #ffff;
+}
+
+.btn-google{
+    outline: 1px solid #606c38;
+
+}
+.btn-google:hover{
+    background: #606c38;
+    color: #ffff;
+}
+.btn-facebook{
+    outline: 1px solid #8e9a63;
+
+}
+.btn-facebook:hover{
+    background: #8e9a63;
+    color: #ffff;
+}
+
+/* Amarelo
+#ffd60a - primary
+
+#ffff55 - light
+
+#c7a500 - dark
+
+Verde
+#606c38 - primary
+
+#8e9a63 - light
+
+#35410f - dark
+ */
