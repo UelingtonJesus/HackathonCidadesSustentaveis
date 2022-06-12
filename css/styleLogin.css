@@ -4,6 +4,7 @@ body{
    background: linear-gradient(to right, #8e9a63 , #35410f);
    font-family: 'Noto Sans', sans-serif;
    font-family: 'Nunito Sans', sans-serif;
+   margin-bottom: 50px;
 }
 
 .login{
@@ -37,6 +38,11 @@ body{
 .btn-facebook:hover{
     background: #8e9a63;
     color: #ffff;
+}
+
+.row-center {
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 /* Amarelo
